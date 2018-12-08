@@ -1,0 +1,34 @@
+launchIDE
+test
+launchIDE
+console
+~test
+console
+launchIDE
+~test
+console
+launchIDE
+console
+launchIDE
+~test
+console
+~test
+packagesubmission
+packageSubmission
+launchIDE
+console
+test
+packageSubmission
+console
+launchIDE
+test
+console
+import RecFunSuite._
+console
+sbt reboot
+reboot
+test
+packageSubmission
+launchIDE
+packageSubmission
+console
