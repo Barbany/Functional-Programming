@@ -1,0 +1,8 @@
+[0m[[0m[33mwarn[0m] [0m[0m[34m-- Warning: C:\Users\Oriol Barbany\Google Drive\EPFL\1A\Functional Programming\5-huffman-coding-Barbany\src\main\scala\patmat\Huffman.scala:129:14 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[31m129 |[0m        [33mcase[0m ([36mthisChar[0m: [35mList[0m[[35mChar[0m], [36mthisInt[0m: [35mInt[0m) [36m=>[0m
+[0m[[0m[33mwarn[0m] [0m[0m    |              [31m^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m    |             the type test for [35mList[Char][0m cannot be checked at runtime[0m
+[0m[[0m[33mwarn[0m] [0m[0m[34m-- Warning: C:\Users\Oriol Barbany\Google Drive\EPFL\1A\Functional Programming\5-huffman-coding-Barbany\src\main\scala\patmat\Huffman.scala:131:18 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[31m131 |[0m            [33mcase[0m ([36mthatChar[0m: [35mList[0m[[35mChar[0m], [36mthatInt[0m: [35mInt[0m) [36m=>[0m
+[0m[[0m[33mwarn[0m] [0m[0m    |                  [31m^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m    |             the type test for [35mList[Char][0m cannot be checked at runtime[0m
