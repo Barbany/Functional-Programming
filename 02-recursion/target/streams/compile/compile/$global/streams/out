@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[34m-- [E007] Type Mismatch Error: C:\Users\Oriol Barbany\Google Drive\EPFL\1A\Functional Programming\2-recursion-Barbany\src\main\scala\recfun\Main.scala:44:5 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m44 |[0m    }[0m
+[0m[[0m[31merror[0m] [0m[0m   |     [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |     found:    Unit[0m
+[0m[[0m[31merror[0m] [0m[0m   |     required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m   |     [0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="progfun2-streams"
+		module="progfun2-streams_0.9"
+		revision="0.1.0-SNAPSHOT"
+		conf="provided"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, sources, docs"
+		date="20181102201139"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
